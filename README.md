@@ -159,6 +159,22 @@
 <img src="https://img.shields.io/badge/gmail:  hamzarehmansheikh4-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
+<li>
+  
+  <!-- Instagram -->
+  <li>
+    <a href="https://www.instagram.com/hamzarehmansheikh4/" target="_blank">
+      <img src="https://img.shields.io/badge/instagram-hamzarehmansheikh4-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
+    </a>
+  </li>
+  
+  <!-- YouTube -->
+  <li>
+    <a href="https://www.youtube.com/channel/UCgG3aEMj3HoW1Dqbvg-9t0g" target="_blank">
+      <img src="https://img.shields.io/badge/youtube-Subscribe-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;" />
+    </a>
+  </li>
+
 	
 </ul>
 </div>
