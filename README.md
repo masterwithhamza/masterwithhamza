@@ -6,18 +6,15 @@
 
 <br>
 - Visit my Website (http://thehamzarehman.com/)
-<br><br>
-
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b>
 <br>
-
 <p align="center">
-
 <br>
 
-- **DevOps Softwares and Tools**:
+- **My DevOps Skills**:
 
    
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -38,7 +35,7 @@
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23216282.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-
+- **My Amazon Web Services (AWS) Skills**:
 
 <br>
 
