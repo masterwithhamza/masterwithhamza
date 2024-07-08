@@ -1,14 +1,10 @@
 
 <h1 align="center"><b>Hi , I'm Hamza Rehman </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-
-<br>
-
 <br>
 - Visit my Website (http://thehamzarehman.com/)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b>
 <br>
 <p align="center">
@@ -32,11 +28,38 @@
   ![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
   ![Docker Hub](https://img.shields.io/badge/Docker%20Hub-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Artifact Hub](https://img.shields.io/badge/Artifact%20Hub-%23000000.svg?style=for-the-badge&logo=helm&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23216282.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 
+<br>
+
 - **My Amazon Web Services (AWS) Skills**:
+
+  
   ![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Route53](https://img.shields.io/badge/Route_53-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS CLI](https://img.shields.io/badge/AWS_CLI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS CodeCommit](https://img.shields.io/badge/CodeCommit-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS CodeBuild](https://img.shields.io/badge/CodeBuild-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS CodeDeploy](https://img.shields.io/badge/CodeDeploy-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+  ![AWS CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![ECR](https://img.shields.io/badge/ECR-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![ECS](https://img.shields.io/badge/ECS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![EKS](https://img.shields.io/badge/EKS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Systems Manager](https://img.shields.io/badge/Systems_Manager-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS Config](https://img.shields.io/badge/Config-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS CloudTrail](https://img.shields.io/badge/CloudTrail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS Load Balancers](https://img.shields.io/badge/Load_Balancers-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS SNS](https://img.shields.io/badge/SNS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS KMS](https://img.shields.io/badge/KMS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Fargate](https://img.shields.io/badge/Fargate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <br>
 
