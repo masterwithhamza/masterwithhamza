@@ -5,9 +5,9 @@
 - Visit my Website (http://thehamzarehman.com/)
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 <p align="center">
 <br>
@@ -47,21 +47,21 @@
   ![AWS CodeCommit](https://img.shields.io/badge/CodeCommit-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![AWS CodeBuild](https://img.shields.io/badge/CodeBuild-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![AWS CodeDeploy](https://img.shields.io/badge/CodeDeploy-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS CodeDeploy](https://img.shields.io/badge/CodeDeploy-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
   ![AWS CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![ECR](https://img.shields.io/badge/ECR-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![ECS](https://img.shields.io/badge/ECS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![ECS](https://img.shields.io/badge/ECS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![EKS](https://img.shields.io/badge/EKS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![Systems Manager](https://img.shields.io/badge/Systems_Manager-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Systems Manager](https://img.shields.io/badge/Systems_Manager-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![AWS Config](https://img.shields.io/badge/Config-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![AWS CloudTrail](https://img.shields.io/badge/CloudTrail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![AWS Load Balancers](https://img.shields.io/badge/Load_Balancers-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![AWS SNS](https://img.shields.io/badge/SNS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![AWS KMS](https://img.shields.io/badge/KMS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![Fargate](https://img.shields.io/badge/Fargate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Fargate](https://img.shields.io/badge/Fargate-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <br>
 
