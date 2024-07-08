@@ -32,7 +32,6 @@
   ![Artifact Hub](https://img.shields.io/badge/Artifact%20Hub-%23000000.svg?style=for-the-badge&logo=helm&logoColor=white)
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23216282.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-<br>
 
 - **My Amazon Web Services (AWS) Skills**:
 
@@ -62,8 +61,7 @@
   ![AWS SNS](https://img.shields.io/badge/SNS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![AWS KMS](https://img.shields.io/badge/KMS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Fargate](https://img.shields.io/badge/Fargate-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-<br>
+  
 
 - **Languages**:
     
@@ -75,19 +73,13 @@
     ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Assembly](https://img.shields.io/badge/Assembly-%231F6FEB.svg?style=for-the-badge&logo=assembly&logoColor=white)
 
-
-
-<br>   
     
 - **Web Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-<br>
-
-<br>   
+ 
     
 - **Mobile App Development**:
 
