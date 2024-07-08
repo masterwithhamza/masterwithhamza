@@ -36,6 +36,7 @@
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23216282.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 - **My Amazon Web Services (AWS) Skills**:
+  ![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <br>
 
