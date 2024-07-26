@@ -109,6 +109,7 @@
 
    ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+   ![XML](https://img.shields.io/badge/XML-%23008080.svg?style=for-the-badge&logo=xml&logoColor=white)
    ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
     
   
