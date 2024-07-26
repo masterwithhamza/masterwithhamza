@@ -31,6 +31,8 @@
   ![Docker Hub](https://img.shields.io/badge/Docker%20Hub-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Artifact Hub](https://img.shields.io/badge/Artifact%20Hub-%23000000.svg?style=for-the-badge&logo=helm&logoColor=white)
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23216282.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
 
 
 - **My MLOps Skills**:
@@ -38,6 +40,9 @@
 
   ![DVC](https://img.shields.io/badge/DVC-%230A0A0A.svg?style=for-the-badge&logo=dataversioncontrol&logoColor=white)
   ![MLflow](https://img.shields.io/badge/MLflow-%230080FF.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+  ![DagsHub](https://img.shields.io/badge/DagsHub-%23010A1D.svg?style=for-the-badge&logo=dagshub&logoColor=white)
+  ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazonsagemaker&logoColor=white)
+
 
 
 - **My Amazon Web Services (AWS) Skills**:
