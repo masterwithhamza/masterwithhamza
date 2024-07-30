@@ -111,54 +111,21 @@
    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
    ![XML](https://img.shields.io/badge/XML-%23008080.svg?style=for-the-badge&logo=xml&logoColor=white)
    ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+  - **Native App Development**:
+ 
+
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzarehman4/)
+  [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
     
   
  <br>
 </p>
 
-## <b> Let's Connect..!</b><img src="https://github.com/hamzarehmansheikh4/hamzarehmansheikh4/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-<ul>
-<li>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzarehman4/)
-[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
-
-</li>
-<br>
-<li>
-<a href="https://twitter.com/sheikh_hr_4" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  hamzarehmansheikh4-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-<br>
-<li>
-<a href="mailto:hamza.rehman.shaikh@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  hamzarehmansheikh4-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-<li>
-  <!-- Instagram -->
-  <li>
-    <a href="https://www.instagram.com/hamzarehmansheikh4/" target="_blank">
-      <img src="https://img.shields.io/badge/instagram-hamzarehmansheikh4-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
-    </a>
-  </li>
-  
-  <!-- YouTube -->
-  <li>
-    <a href="https://www.youtube.com/channel/UCgG3aEMj3HoW1Dqbvg-9t0g" target="_blank">
-      <img src="https://img.shields.io/badge/youtube-Subscribe-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;" />
-    </a>
-  </li>
-
-	
-</ul>
-</div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+
+
 
 <div align='center'>
 
