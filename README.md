@@ -121,9 +121,9 @@
 <div align='left'>
 <ul>
 <li>
-<a href="(https://www.linkedin.com/in/hamzarehman4/)" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: hamzarehmansheikh4-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzarehman4/)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+
 </li>
 <br>
 <li>
