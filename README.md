@@ -112,20 +112,22 @@
    ![XML](https://img.shields.io/badge/XML-%23008080.svg?style=for-the-badge&logo=xml&logoColor=white)
    ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
-  - **Tools**:
+- **Tools**:
 
-[![Turbo C++](https://img.shields.io/badge/Turbo%20C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.turboexplorer.com/)
-[![Dev C++](https://img.shields.io/badge/Dev%20C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://sourceforge.net/projects/orwelldevcpp/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)\
-[![AnyDesk](https://img.shields.io/badge/AnyDesk-%23D70900.svg?style=for-the-badge&logo=anydesk&logoColor=white)](https://anydesk.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![MobaXterm](https://img.shields.io/badge/MobaXterm-%230072C6.svg?style=for-the-badge&logo=mobaxterm&logoColor=white)](https://mobaxterm.mobatek.net/)
-[![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)](https://www.sublimetext.com/)
-[![VMware](https://img.shields.io/badge/VMware-%23007CBA.svg?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
-[![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
+
+
+   [![Turbo C++](https://img.shields.io/badge/Turbo%20C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.turboexplorer.com/)  
+   [![Dev C++](https://img.shields.io/badge/Dev%20C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://sourceforge.net/projects/orwelldevcpp/)
+   [![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+   [![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)\
+   [![AnyDesk](https://img.shields.io/badge/AnyDesk-%23D70900.svg?style=for-the-badge&logo=anydesk&logoColor=white)](https://anydesk.com/)
+   [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+   [![MobaXterm](https://img.shields.io/badge/MobaXterm-%230072C6.svg?style=for-the-badge&logo=mobaxterm&logoColor=white)](https://mobaxterm.mobatek.net/)
+   [![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+   [![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+   [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)](https://www.sublimetext.com/)
+   [![VMware](https://img.shields.io/badge/VMware-%23007CBA.svg?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
+   [![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
 
 
   <br>
