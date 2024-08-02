@@ -148,6 +148,8 @@
   [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/masterwithhamza/)
   [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/masterwithhamza/)
   [![reddit](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/MasterWithHamza/)
+  [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Hamza-Rehman-241)
+
 
 
 
