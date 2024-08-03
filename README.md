@@ -43,6 +43,9 @@
   ![DagsHub](https://img.shields.io/badge/DagsHub-%23010A1D.svg?style=for-the-badge&logo=dagshub&logoColor=white)
   ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazonsagemaker&logoColor=white)
   [![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/bedrock/)
+  [![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=LangChain&logoColor=white)](https://www.langchain.com/)
+  [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
 
 
 
