@@ -45,6 +45,9 @@
   [![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/bedrock/)
   [![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=LangChain&logoColor=white)](https://www.langchain.com/)
   [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2300B8A9.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/masterwithhamza)
+  [![Google Colab](https://img.shields.io/badge/Google%20Colab-%23FFAB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
+
 
 
 
