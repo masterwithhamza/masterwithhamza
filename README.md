@@ -16,15 +16,15 @@
 
 
 
-  ![Langchain](https://img.shields.io/badge/Langchain-FFCC00?style=for-the-badge&logo=python&logoColor=black)  
-  ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4A90E2?style=for-the-badge&logo=llama&logoColor=white)  
-  ![Pinecone](https://img.shields.io/badge/Pinecone-009688?style=for-the-badge&logo=vector&logoColor=white)  
-  ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF5722?style=for-the-badge&logo=database&logoColor=white)  
-  ![FAISS](https://img.shields.io/badge/FAISS-673AB7?style=for-the-badge&logo=facebook&logoColor=white)  
-  ![Qdrant](https://img.shields.io/badge/Qdrant-607D8B?style=for-the-badge&logo=database&logoColor=white)  
+  ![Langchain](https://img.shields.io/badge/Langchain-FFCC00?style=for-the-badge&logo=python&logoColor=black)
+  ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4A90E2?style=for-the-badge&logo=llama&logoColor=white)
+  ![Pinecone](https://img.shields.io/badge/Pinecone-009688?style=for-the-badge&logo=vector&logoColor=white)
+  ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF5722?style=for-the-badge&logo=database&logoColor=white)
+  ![FAISS](https://img.shields.io/badge/FAISS-673AB7?style=for-the-badge&logo=facebook&logoColor=white)
+  ![Qdrant](https://img.shields.io/badge/Qdrant-607D8B?style=for-the-badge&logo=database&logoColor=white)
   ![Chainlit](https://img.shields.io/badge/Chainlit-3F51B5?style=for-the-badge&logo=python&logoColor=white)
-  ![Ollama](https://img.shields.io/badge/Ollama-FF4500?style=for-the-badge&logo=llama&logoColor=white)  
-  ![GroqCloud](https://img.shields.io/badge/GroqCloud-FF1493?style=for-the-badge&logo=groq&logoColor=white)  
+  ![Ollama](https://img.shields.io/badge/Ollama-FF4500?style=for-the-badge&logo=llama&logoColor=white)
+  ![GroqCloud](https://img.shields.io/badge/GroqCloud-FF1493?style=for-the-badge&logo=groq&logoColor=white)
   ![OpenRouter](https://img.shields.io/badge/OpenRouter-008080?style=for-the-badge&logo=router&logoColor=white)
   ![NVIDIA NIMs](https://img.shields.io/badge/NVIDIA%20NIMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
