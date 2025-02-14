@@ -70,9 +70,7 @@
   ![DVC](https://img.shields.io/badge/DVC-%230A0A0A.svg?style=for-the-badge&logo=dataversioncontrol&logoColor=white)
   ![MLflow](https://img.shields.io/badge/MLflow-%230080FF.svg?style=for-the-badge&logo=mlflow&logoColor=white)
   ![DagsHub](https://img.shields.io/badge/DagsHub-%23010A1D.svg?style=for-the-badge&logo=dagshub&logoColor=white)
-  ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazonsagemaker&logoColor=white)
-  [![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/bedrock/)
-  [![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=LangChain&logoColor=white)](https://www.langchain.com/)
+  
   
 
 
@@ -108,6 +106,8 @@
   ![AWS KMS](https://img.shields.io/badge/KMS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Fargate](https://img.shields.io/badge/Fargate-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
   [![Amazon API Gateway](https://img.shields.io/badge/Amazon%20API%20Gateway-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/api-gateway/)
+  ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazonsagemaker&logoColor=white)
+  [![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/bedrock/)
   
 - **My Google Cloud Platform (GCP) Skills**:
 
