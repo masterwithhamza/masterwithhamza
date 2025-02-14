@@ -70,7 +70,7 @@
   ![DVC](https://img.shields.io/badge/DVC-%230A0A0A.svg?style=for-the-badge&logo=dataversioncontrol&logoColor=white)
   ![MLflow](https://img.shields.io/badge/MLflow-%230080FF.svg?style=for-the-badge&logo=mlflow&logoColor=white)
   ![DagsHub](https://img.shields.io/badge/DagsHub-%23010A1D.svg?style=for-the-badge&logo=dagshub&logoColor=white)
-  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)  
+  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
   ![Kubeflow](https://img.shields.io/badge/Kubeflow-1E88E5?style=for-the-badge&logo=kubeflow&logoColor=white)
   
   
