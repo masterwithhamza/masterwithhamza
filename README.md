@@ -29,7 +29,7 @@
   ![NVIDIA NIMs](https://img.shields.io/badge/NVIDIA%20NIMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
   ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
   ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23FFAB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2300B8A9.svg?style=for-thebadge&logo=huggingface&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2300B8A9.svg?style=for-the-badge&logo=huggingface&logoColor=white)
   
 
   
