@@ -33,6 +33,12 @@
   
 - **My Agentic AI Skills**:
 
+  ![AutoGen](https://img.shields.io/badge/AutoGen-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+  ![Phidata](https://img.shields.io/badge/Phidata-1976D2?style=for-the-badge&logo=data&logoColor=white)
+  ![Langflow](https://img.shields.io/badge/Langflow-9C27B0?style=for-the-badge&logo=flowchart&logoColor=white)
+  ![SmolAgents](https://img.shields.io/badge/SmolAgents-FF4081?style=for-the-badge&logo=agent&logoColor=white)
+  ![CrewAI](https://img.shields.io/badge/CrewAI-00ACC1?style=for-the-badge&logo=team&logoColor=white)
+
 - **My DevOps Skills**:
 
    
