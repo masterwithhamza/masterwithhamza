@@ -13,6 +13,9 @@
 <br>
    
 - **My Generative AI Skills**:
+
+
+
   ![Langchain](https://img.shields.io/badge/Langchain-FFCC00?style=for-the-badge&logo=python&logoColor=black)  
   ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4A90E2?style=for-the-badge&logo=llama&logoColor=white)  
   ![Pinecone](https://img.shields.io/badge/Pinecone-009688?style=for-the-badge&logo=vector&logoColor=white)  
@@ -24,6 +27,8 @@
   ![GroqCloud](https://img.shields.io/badge/GroqCloud-FF1493?style=for-the-badge&logo=groq&logoColor=white)  
   ![OpenRouter](https://img.shields.io/badge/OpenRouter-008080?style=for-the-badge&logo=router&logoColor=white)
   ![NVIDIA NIMs](https://img.shields.io/badge/NVIDIA%20NIMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+  
 - **My Agentic AI Skills**:
 
 - **My DevOps Skills**:
