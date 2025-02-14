@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Hamza Rehman </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <br>
-- Visit my Website (http://thehamzarehman.com/)
+- Visit my Website (http://agentsvalley.com/)
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
@@ -11,6 +11,20 @@
 <br>
 <p align="center">
 <br>
+   
+- **My Generative AI Skills**:
+  ![Langchain](https://img.shields.io/badge/Langchain-FFCC00?style=for-the-badge&logo=python&logoColor=black)  
+  ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4A90E2?style=for-the-badge&logo=llama&logoColor=white)  
+  ![Pinecone](https://img.shields.io/badge/Pinecone-009688?style=for-the-badge&logo=vector&logoColor=white)  
+  ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF5722?style=for-the-badge&logo=database&logoColor=white)  
+  ![FAISS](https://img.shields.io/badge/FAISS-673AB7?style=for-the-badge&logo=facebook&logoColor=white)  
+  ![Qdrant](https://img.shields.io/badge/Qdrant-607D8B?style=for-the-badge&logo=database&logoColor=white)  
+  ![Chainlit](https://img.shields.io/badge/Chainlit-3F51B5?style=for-the-badge&logo=python&logoColor=white)
+  ![Ollama](https://img.shields.io/badge/Ollama-FF4500?style=for-the-badge&logo=llama&logoColor=white)  
+  ![GroqCloud](https://img.shields.io/badge/GroqCloud-FF1493?style=for-the-badge&logo=groq&logoColor=white)  
+  ![OpenRouter](https://img.shields.io/badge/OpenRouter-008080?style=for-the-badge&logo=router&logoColor=white)
+  ![NVIDIA NIMs](https://img.shields.io/badge/NVIDIA%20NIMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+- **My Agentic AI Skills**:
 
 - **My DevOps Skills**:
 
@@ -45,7 +59,8 @@
   [![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/bedrock/)
   [![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=LangChain&logoColor=white)](https://www.langchain.com/)
   [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2300B8A9.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/masterwithhamza)
+  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2300B8A9.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+  (https://huggingface.co/masterwithhamza)
   [![Google Colab](https://img.shields.io/badge/Google%20Colab-%23FFAB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 
 
@@ -82,7 +97,7 @@
   ![Fargate](https://img.shields.io/badge/Fargate-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
   [![Amazon API Gateway](https://img.shields.io/badge/Amazon%20API%20Gateway-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/api-gateway/)
   
-  
+- **My Google Cloud Platform (GCP) Skills**:
 
 - **Languages**:
     
