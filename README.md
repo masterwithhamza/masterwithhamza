@@ -27,8 +27,8 @@
   ![GroqCloud](https://img.shields.io/badge/GroqCloud-FF1493?style=for-the-badge&logo=groq&logoColor=white)
   ![OpenRouter](https://img.shields.io/badge/OpenRouter-008080?style=for-the-badge&logo=router&logoColor=white)
   ![NVIDIA NIMs](https://img.shields.io/badge/NVIDIA%20NIMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2300B8A9.svg?style=for-the-badge&logo=huggingface&logoColor=white)(https://huggingface.co/masterwithhamza)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2300B8A9.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
   
 - **My Agentic AI Skills**:
